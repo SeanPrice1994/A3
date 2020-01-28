@@ -1,0 +1,7 @@
+﻿  A3.cpp
+C:\Assignment 3\GAM1545_010_Price_Sean\A3\A3\A3.cpp(17,9): warning C4101:  'Modulus': unreferenced local variable
+C:\Assignment 3\GAM1545_010_Price_Sean\A3\A3\A3.cpp(15,9): warning C4101:  'Multiplication': unreferenced local variable
+C:\Assignment 3\GAM1545_010_Price_Sean\A3\A3\A3.cpp(16,9): warning C4101:  'Division': unreferenced local variable
+C:\Assignment 3\GAM1545_010_Price_Sean\A3\A3\A3.cpp(13,9): warning C4101:  'Addition': unreferenced local variable
+C:\Assignment 3\GAM1545_010_Price_Sean\A3\A3\A3.cpp(14,9): warning C4101:  'Subtraction': unreferenced local variable
+  A3.vcxproj -> C:\Assignment 3\GAM1545_010_Price_Sean\A3\Debug\A3.exe
